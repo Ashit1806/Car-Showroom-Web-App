@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mercedes Benz SL65 Amg
+* source:	https://sketchfab.com/3d-models/mercedes-benz-sl65-amg-bbdbdbd140314d17a4177fd0dcad157c
+* author:	All-Wide (https://sketchfab.com/dsm350)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mercedes Benz SL65 Amg" (https://sketchfab.com/3d-models/mercedes-benz-sl65-amg-bbdbdbd140314d17a4177fd0dcad157c) by All-Wide (https://sketchfab.com/dsm350) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
